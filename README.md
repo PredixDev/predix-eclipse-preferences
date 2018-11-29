@@ -30,4 +30,4 @@ To Format a MyClass.java file, press Ctrl-Shift-F and it will format the page to
 
 Now notice the code has fewer warnings when checking for Spelling of things like 'Predix'.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-82773213-1/predix-eclipse-preferences/readme?pixel)](https://github.com/PredixDev)
+[![Analytics](https://predix-beacon.appspot.com/UA-82773213-1/predix-eclipse-preferences/readme?pixel)](https://github.com/PredixDev)
